@@ -1,0 +1,29 @@
+.speech {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 15px;
+    color: black;
+}
+
+.direction {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 13px;
+    color: black;
+    background-color: rgb(196, 205, 255);
+}
+
+.direction.hover {
+    background-color: bisque;
+    color: darkslategray
+}
+
+.name {
+
+}
+
+.revenue {
+    color: blue;
+}
+
+.luke {
+    color: purple;
+}
