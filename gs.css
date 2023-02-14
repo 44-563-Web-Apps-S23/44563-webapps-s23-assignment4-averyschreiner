@@ -11,7 +11,7 @@
     background-color: rgb(196, 205, 255);
 }
 
-.direction.hover {
+.direction:hover {
     background-color: bisque;
     color: darkslategray
 }
@@ -37,4 +37,9 @@ td, th, tr {
 
 td {
     padding: 5px;
+}
+
+h3:hover {
+    text-shadow: 2px 2px 3px rgb(144, 144, 144);
+    border: 3px dotted orange;
 }
